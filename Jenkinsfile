@@ -2,7 +2,7 @@
     pipeline {
     
         
-    	
+    	agent any
         stages{
 
             stage('New Commit(s) Detected') {
