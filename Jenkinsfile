@@ -1,6 +1,4 @@
-def call(Map config) {
 
-     
     pipeline {
     
         //agent any 
@@ -209,4 +207,3 @@ def call(Map config) {
             }
         }
     }
-}
